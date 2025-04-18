@@ -1,20 +1,10 @@
 ## 👨‍💻 Estevam
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack**
 
 Me chamo Felipe Estevam, tenho 20 anos e sou natural do São Paulo.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNI9.
 
 <p align="left">
-
-<
-    <a href="https://github.com/EstevaM-prog?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ### 🤖 Linguagens e Tecnologias
 
